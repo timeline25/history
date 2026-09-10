@@ -12,3 +12,7 @@ Well, I just copy and paste it. Then it's time to open the first codespace.
 ``` py
 print("Hello, World!")
 ```
+
+## Update 2026
+
+This repository should be updated with an `AGENTS.md` to be prepared to be used with an AI agent.
